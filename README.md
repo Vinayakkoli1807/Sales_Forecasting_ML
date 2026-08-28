@@ -1,6 +1,6 @@
 # 📊 Sales Forecasting System
 
-> A Machine Learning-powered sales forecasting application that predicts sales from order, customer, product, geographic, and financial attributes through an interactive Streamlit dashboard.
+> A Machine Learning-powered sales forecasting application that predicts sales from order, customer, product, geographic, and financial attributes through an interactive Streamlit dashboard.<br>
 > 🔗 Live Demo: https://salesforecasting-ml-1807.streamlit.app/
 
 ## 🚀 Project Overview
